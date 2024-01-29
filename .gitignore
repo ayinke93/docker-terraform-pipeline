@@ -1,0 +1,5 @@
+
+*.json
+./Users/yemisi/Code-repo/docker_sql/ny_taxi_postgres_data
+yellow_tripdata_2021-01.csv
+ny_taxi_postgres_data/base/16384/*
